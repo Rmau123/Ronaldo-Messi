@@ -1,3 +1,5 @@
 mengambil chart 5 tahun lalu
 mengambil support
 mengambil resistance
+menentukan trend naik atau turun
+mengecek ekuitas perusahaan
