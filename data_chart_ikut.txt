@@ -3,3 +3,4 @@ mengambil support
 mengambil resistance
 menentukan trend naik atau turun
 mengecek ekuitas perusahaan
+menghitung profit
